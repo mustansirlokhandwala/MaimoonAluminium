@@ -1,12 +1,10 @@
 ---
 layout: page
 title: Maimoon Aluminium Mart
-excerpt: "So Simple is a responsive Jekyll theme for your words and images."
+excerpt: "The one stop solutions to all your Aluminium needs."
 modified: 2014-08-08T19:44:38.564948-04:00
 image:
-  feature: centerImage.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  feature: coverimage.jpg
 ---
 
 Established in 1971, **Maimoon Aluminium mart** has developed as one stop supplier for every Metallic Need, be it Aluminum or Steel. The Company began as shippers and exporters of a wide range of metal scraps, step by step broadening into the Distribution Business of Aluminum Extruded Sections, Aluminum Raceways, Aluminum Sheets and Coils, M.S Slotted Angles, Storage Racks, M.S Bins and Building Hardware.
