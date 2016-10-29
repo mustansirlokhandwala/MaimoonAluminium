@@ -1,13 +1,13 @@
 # Site navigation links
 
 - title: About
-  url: /about/
+  url: {{ site.base-url }}/about/
 
 - title: Products
-  url: /products/
+  url: {{ site.base-url }}/products/
 
 - title: Aluminium Fabrication Services
-  url: /fabrication/
+  url: {{ site.base-url }}/fabrication/
 
 - title: Contact Us
-  url: /contactus/
+  url: {{ site.base-url }}/contactus/
