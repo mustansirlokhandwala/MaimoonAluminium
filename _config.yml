@@ -6,6 +6,7 @@ description: We Serve With Best Quality And Service.
 logo: site-logo.png
 search: true
 url: /maimoonaluminium
+base-url: /maimoonaluminium
 
 
 # Jekyll configuration
